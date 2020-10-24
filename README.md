@@ -1,5 +1,5 @@
 # SLAM_RTABMap_usingROS
-ROS Project to practice SLAM using RTBMap package in a custom world
+ROS Project to practice SLAM using RTABMap package in a custom world
 
 ### 3D Point Cloud View:
 ![Point Cloud](https://github.com/dhruvtya/SLAM_RTABMap_usingROS/blob/main/Point%20Cloud.jpg)
